@@ -22,7 +22,10 @@ Please note that this is still a work under progress and new ideas and contribut
  ## 🛠 &nbsp;<span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">Tech Stack
 </span>
 
-
+* Python
+* Mediapipe
+* openCV
+* numpy
 
 ## Training the model
 
