@@ -21,7 +21,7 @@ Please note that this is still a work under progress and new ideas and contribut
  
  ## 🛠 &nbsp;<span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">Tech Stack
 </span>
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 
 
 ## Training the model
