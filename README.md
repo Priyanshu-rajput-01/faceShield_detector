@@ -33,7 +33,7 @@ Please note that this is still a work under progress and new ideas and contribut
 
 **Data Collection**
 
-The dataset containing images of people wearing mask, faceshield  and people with gloves were collected mostly from google search. Some images have been collected form kaggle . Download images for training from [train_image_folder](https://drive.google.com/drive/folders/1b5ocFK8Z_plni0JL4gVhs3383V7Q9EYH?usp=sharing)<br> [kaggle](https://www.kaggle.com/sumansid/facemask-dataset),
+The dataset containing images of people wearing mask, faceshield  and people with gloves were collected mostly from google search. Some images have been collected form kaggle . Download images for training from [train_image_folder](https://drive.google.com/drive/folders/1b5ocFK8Z_plni0JL4gVhs3383V7Q9EYH?usp=sharing)<br> [kaggle](https://www.kaggle.com/sumansid/facemask-dataset). 
 
 
 
@@ -53,7 +53,7 @@ The model section defines the type of the model to construct as well as other pa
  
  ### 3. Perform detection using trained model on live feed from webcam
  `main.py`
- The trained weighets can be used in local inviorm=nment as well as on google colab.
+ The model is ready to use in two enviornments local as well as google collab
 
 
 ## Acknowledgements
