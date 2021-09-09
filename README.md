@@ -33,7 +33,7 @@ Please note that this is still a work under progress and new ideas and contribut
 
 **Data Collection**
 
-The dataset containing images of people wearing mask, faceshield  and people with gloves were collected mostly from google search. Some images have been collected form kaggle . Download images for training from [train_image_folder](https://drive.google.com/drive/folders/1b5ocFK8Z_plni0JL4gVhs3383V7Q9EYH?usp=sharing). [kaggle](https://www.kaggle.com/sumansid/facemask-dataset),
+The dataset containing images of people wearing mask, faceshield  and people with gloves were collected mostly from google search. Some images have been collected form kaggle . Download images for training from [train_image_folder](https://drive.google.com/drive/folders/1b5ocFK8Z_plni0JL4gVhs3383V7Q9EYH?usp=sharing)<br> [kaggle](https://www.kaggle.com/sumansid/facemask-dataset),
 
 
 
