@@ -52,7 +52,7 @@ The model section defines the type of the model to construct as well as other pa
 
  
  ### 3. Perform detection using trained model on live feed from webcam
- `main.py`
+ `main.py`<br> ``<br>
  The model is ready to use in two enviornments local as well as google collab
 
 
