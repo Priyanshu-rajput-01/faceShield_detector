@@ -1,5 +1,12 @@
 ﻿# faceShield_detector
 
+## Table of content 
+**1. Introduction**
+**2. functioning**
+**3. Tech Stack**
+**4. Prossess of traing the model**
+**5. How to contribute**
+**6. Acknowledgements**
 
 ## Introduction
 In difficult time like these where viruses like Covid 19 are spreading world-wide we need to keep safe distance from each other and wear appropriate safty gears this project looks into that topic it helps us recognize that a person is wearing faceshield or not so that overall safty of all is maintained.
