@@ -62,7 +62,14 @@ The model section defines the type of the model to construct as well as other pa
  `main.py`<br> `FaceShield_detector.ipynb`<br>
  The model is ready to use in two enviornments local as well as google collab
 
-
+ 
+## How to contribute
+ - Step 1. Open a Issue related to the topic you want to contribute (For example - Styling, Code refactoring,updating readme,etc)
+ - Step 2. Wait for the confirmation
+ - Step 3. Fork the repository 
+ - Step 4. Create a brach and make the changes
+ - Step 5. Publish a PR with the new brach to the main brach of Upstream
+ 
 ## Acknowledgements
 
 * [Google/mediapipe](https://github.com/google/mediapipe) for training data.
